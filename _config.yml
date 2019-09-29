@@ -27,6 +27,8 @@ baseurl: "shell-novice"
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
 #repository: <USERNAME>/<PROJECT>
 
+baseurl: "shell-novice"
+
 # Email address, no mailto:
 email: "team@carpentries.org"
 
